@@ -1,10 +1,12 @@
 ![](https://github.com/ArjunKumarDas/ArjunKumarDas/blob/main/header.png?raw=true)
-![](https://github.com/ArjunKumarDas/ArjunKumarDas/blob/main/Screenshot_2.png?raw=true)
+
 
 Welcome to my profile! I'm passionate about Front-end Developer. 
 I actively seek out new technologies and stay up-to-date on industry trends and advancement.
 
-Skills:  / REACT / JS / HTML / CSS
+● Comfortable :​ ​HTML,CSS, Bootstrap, JavaScript, ES6, React, Node.js, MongoDB. 
+● Familiar ​  : ​Material UI, Redux, Express.js, Jire. 
+● Tools       :​ VSCode, Git, Chrome Dev Tool, Netlify, Firebase, Heroku. Trello.
 
 - 🌱 I’m currently learning System Design 
 
