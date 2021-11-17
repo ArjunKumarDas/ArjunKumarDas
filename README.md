@@ -1,7 +1,8 @@
 ![](https://github.com/ArjunKumarDas/ArjunKumarDas/blob/main/header.png?raw=true)
+![](https://github.com/ArjunKumarDas/ArjunKumarDas/blob/main/Screenshot_2.png?raw=true)
 
-
-Welcome to my profile! I'm passionate about Front-end Developer. I actively seek out new technologies and stay up-to-date on industry trends and advancement.
+Welcome to my profile! I'm passionate about Front-end Developer. 
+I actively seek out new technologies and stay up-to-date on industry trends and advancement.
 
 Skills:  / REACT / JS / HTML / CSS
 
