@@ -4,7 +4,7 @@
 Welcome to my profile! I'm passionate about Front-end Developer. <br/>
 I actively seek out new technologies and stay up-to-date on industry trends and advancement.
 
-JavaScript, ES6, React, Node.js, MongoDB. Material UI, Redux, Express.js, 
+Comfortable : HTML5, JavaScript, ES6, React, Tailwind CSS, BootStrap, Material UI, MongoDB, Firebase, Redux, Node.js, Express.js
 
 
 - 🌱 I’m currently learning System Design 
